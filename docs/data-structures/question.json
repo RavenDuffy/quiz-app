@@ -1,0 +1,6 @@
+{
+  "playerId": "string (link to player)",
+  "question": "string",
+  "answer": "string",
+  "time": "number (how long per)"
+}
